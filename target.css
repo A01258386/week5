@@ -1,0 +1,12 @@
+.notebook {
+    border: 4px solid #666;
+    padding:.5em;
+}
+.notebox.warning{
+
+    border-color : orange;
+    font-weight: bold;
+}
+.capital{
+    color:red;
+}
